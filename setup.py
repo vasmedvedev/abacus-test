@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='abacus-test',
+    name='abacustest',
     version='0.1',
     author='Vasiliy Medvedev',
     author_email='fknd99@gmail.com',
